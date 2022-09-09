@@ -1,0 +1,2 @@
+# camelconfigs
+Camel configuration files
